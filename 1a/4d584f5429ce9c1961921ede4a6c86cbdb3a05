@@ -1,0 +1,24 @@
+CHANGELOG.md
+  s_405c1d120c946b::t_4db8793cc3ed13 47
+crates/bsk-cli/src/cli/doctor.rs
+  s_405c1d120c946b::t_4db8793cc3ed13 480-483,502,504,773-794,796-799,801,1144-1147,1149-1153,1155
+  s_405c1d120c946b::t_14723d38e3ba87 1154
+CHANGELOG.zh-CN.md
+  s_405c1d120c946b::t_4db8793cc3ed13 34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "1a4d584f5429ce9c1961921ede4a6c86cbdb3a05",
+  "prompts": {},
+  "sessions": {
+    "s_405c1d120c946b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1edc2-19f2-7a20-99a7-0f464aa3b57d",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Jarvis <mengda636431@gmail.com>"
+    }
+  }
+}
